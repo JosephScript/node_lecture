@@ -6,4 +6,4 @@ http.createServer(function(req, res){
     res.write(greetings[0]()
         + ' ' + greetings[1]() + '\n');
     res.end();
-}).listen(3000);
+}).listen(80);
