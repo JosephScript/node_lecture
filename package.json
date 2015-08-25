@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.4",
-  "description": "A sample Node.js app using Express 4",
+  "name": "node_lecture",
+  "version": "0.0.0",
+  "description": "A sample Node.js app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -20,5 +20,7 @@
     "node",
     "heroku"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "author": "Joseph"
 }
